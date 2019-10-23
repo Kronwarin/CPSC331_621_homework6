@@ -82,10 +82,10 @@ Line : nnnwwarn
 ### Pree web host [000webhost](https://misbegot-rescue.000webhostapp.com) // [infinity](http://kronwawarn29.epizy.com/)
 
 
-### [Nortwind .io](https://github.com/suwatjanee005/nortwind_DB) 
+### [Nortwind .io](https://github.com/Kronwarin/db_NorthWind/blob/master/db_northwind.sql) 
 
 
-### [งานมอบหมายที่ 4](https://github.com/suwatjanee005/Nortwind) ซึ่งประกอบด้วย 8 ตาราง Nortwind
+### [งานมอบหมายที่ 4](https://github.com/Kronwarin/NorthWind) ซึ่งประกอบด้วย 8 ตาราง Nortwind
 
 
-### [งานมอบหมายที่ 5](https://github.com/suwatjanee005/midtermCpsc331) Midterm Project 
+### [งานมอบหมายที่ 5](https://github.com/Kronwarin/CPSC331_621/blob/master/Midterm_project.pdf) Midterm Project 
