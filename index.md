@@ -21,17 +21,9 @@
 วัน/เดือน/ปี เกิด : 29 มีนาคม 2542
 
 น้ำหนัก ส่วนสูง ปัจจุบัน : 45 กิโลกรัม ส่วนสูง 165 เซนติเมตร
-
 วิชาที่ชอบ :คณิตศาสตร์ วิทยาศาสตร์ คอมพิวเตอร์
-
 สีที่ชอบ : สีขาว สีดำ สีชมพู สีฟ้า
-
-ที่อยู่ : 444 หมู่2 ถนนวชิราวุธดำเนิน ตำบลพระบาท อำเภอเมือง จังหวัดลำปาง 52000
-
-ติดต่อ
-
 เบอร์โทร : 0954563043
-
 Line : nnnwwarn
 
 ## 36 pyramid
@@ -79,13 +71,17 @@ Line : nnnwwarn
 <a href="https://github.com/Kronwarin/php_pyramid2/blob/master/namwarn_36.php" class="button">pyramid36</a>
 
 
-## Pree web host [000webhost](https://misbegot-rescue.000webhostapp.com) // [infinity](http://kronwawarn29.epizy.com/)
+## Pree web host 
+<br>[000webhost](https://misbegot-rescue.000webhostapp.com) // [infinity](http://kronwawarn29.epizy.com/)
 
 
-## [Nortwind .io](https://github.com/Kronwarin/db_NorthWind/blob/master/db_northwind.sql) 
+## [Nortwind .io]
+<br>(https://github.com/Kronwarin/db_NorthWind/blob/master/db_northwind.sql) 
 
 
-## [งานมอบหมายที่ 4](https://github.com/Kronwarin/NorthWind) ซึ่งประกอบด้วย 8 ตาราง Nortwind
+## [งานมอบหมายที่ 4]
+<br>(https://github.com/Kronwarin/NorthWind) ซึ่งประกอบด้วย 8 ตาราง Nortwind
 
 
-## [งานมอบหมายที่ 5](https://github.com/Kronwarin/CPSC331_621/blob/master/Midterm_project.pdf) Midterm Project 
+## [งานมอบหมายที่ 5]
+<br>(https://github.com/Kronwarin/CPSC331_621/blob/master/Midterm_project.pdf) Midterm Project 
