@@ -76,12 +76,12 @@ Line : nnnwwarn
 
 
 ## [Nortwind .io]
-<br>(https://github.com/Kronwarin/db_NorthWind/blob/master/db_northwind.sql) 
+(https://github.com/Kronwarin/db_NorthWind/blob/master/db_northwind.sql) 
 
 
 ## [งานมอบหมายที่ 4]
-<br>(https://github.com/Kronwarin/NorthWind) ซึ่งประกอบด้วย 8 ตาราง Nortwind
+(https://github.com/Kronwarin/NorthWind) ซึ่งประกอบด้วย 8 ตาราง Nortwind
 
 
 ## [งานมอบหมายที่ 5]
-<br>(https://github.com/Kronwarin/CPSC331_621/blob/master/Midterm_project.pdf) Midterm Project 
+(https://github.com/Kronwarin/CPSC331_621/blob/master/Midterm_project.pdf) Midterm Project 
