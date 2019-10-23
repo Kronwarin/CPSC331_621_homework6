@@ -24,7 +24,6 @@
 วิชาที่ชอบ :คณิตศาสตร์ วิทยาศาสตร์ คอมพิวเตอร์
 สีที่ชอบ : สีขาว สีดำ สีชมพู สีฟ้า
 เบอร์โทร : 0954563043
-Line : nnnwwarn
 
 ## 36 pyramid
 <a href="https://github.com/Kronwarin/php_pyramid2/blob/master/namwarn_01.php" class="button">pyramid01</a>
