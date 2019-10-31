@@ -69,7 +69,6 @@
 <a href="https://github.com/Kronwarin/php_pyramid2/blob/master/namwarn_35.php" class="button">pyramid35</a>
 <a href="https://github.com/Kronwarin/php_pyramid2/blob/master/namwarn_36.php" class="button">pyramid36</a>
 
-
 ## Pree web host 
 <b>[000webhost](https://misbegot-rescue.000webhostapp.com/) // [infinity](kronwawarn29.epizy.com)
 
