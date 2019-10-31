@@ -71,7 +71,7 @@
 
 
 ## Pree web host 
-<b>[000webhost](https://misbegot-rescue.000webhostapp.com/) // [infinity](kronwawarn29.epizy.com/)
+<b>[000webhost](https://misbegot-rescue.000webhostapp.com/) // [infinity](kronwawarn29.epizy.com)
 
 
 #### [Nortwind .io](https://github.com/Kronwarin/db_NorthWind/blob/master/db_northwind.sql) 
